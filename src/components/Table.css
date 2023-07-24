@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    /* This will create two equal-width columns */
+    grid-gap: 10x;
+    /* Optional: Add gap between the columns */
+    background-color: #fff;
+    /* Just a fancy thing to make it look pretty */
+    padding: 20px;
+    /* Optional: Padding around the entire thing */
+
+}
